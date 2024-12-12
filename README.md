@@ -23,7 +23,7 @@ La intel·ligència artificial està millorant significativament la vida de pers
 
 Aquestes tecnologies representen una hibridació entre el programari i les necessitats humanes, augmentant les capacitats de les persones amb discapacitats i oferint-los un nou grau d'independència.
 
-![Eina Seeing AI](https://via.placeholder.com/600x400.png?text=Seeing+AI+en+ús)
+![Eina Seeing AI](https://via.placeholder.com/600x400.png?text=Seeing+AI+en+ús](https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/61/2023/12/Microsoft-Seeing-AI-Android-channels.jpg)
 
 ### Principis d'hibridació
 
