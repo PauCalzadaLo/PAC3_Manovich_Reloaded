@@ -1,4 +1,4 @@
-# PAC3: Manovich Reloaded
+# PAC3: L'hibridació en la IA per a persones discapacitades i l'XR en el disseny urbà.
 
 ## Autor: Pau Calzada López
 
