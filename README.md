@@ -1,6 +1,6 @@
 # PAC3: Manovich Reloaded
 
-## Autor: Pau Calzada López
+## Autor: Nom Cognom
 
 ---
 
@@ -10,33 +10,35 @@ En aquest document explorarem dos casos recents d'hibridació tecnològica i cul
 
 Els casos seleccionats són:
 
-1. **La IA generativa en processos creatius**.
+1. **La IA en les persones cegues o amb discapacitats**.
 2. **La realitat estesa (XR) en el disseny urbà**.
 
 ---
 
-## Cas 1: La IA generativa en processos creatius
+## Cas 1: La IA en les persones cegues o amb discapacitats
 
 ### Descripció
 
-Les eines d'Intel·ligència Artificial generativa, com ara MidJourney i ChatGPT, han transformat la creació artística i literària. MidJourney, una plataforma de generació d'imatges basada en IA, permet als usuaris crear imatges d'alta qualitat a partir de descripcions text. De la mateixa manera, ChatGPT facilita la generació de contingut textual amb una sorprenent capacitat de comprensió i coherència lingüística.
+La intel·ligència artificial està millorant significativament la vida de persones cegues o amb discapacitats mitjançant eines com *Be My Eyes* o *Seeing AI*. Aquestes aplicacions utilitzen la visió artificial i el processament de llenguatge natural per interpretar l'entorn i descriure'l en temps real. Per exemple, *Seeing AI* pot llegir textos, identificar objectes, reconèixer cares i descriure escenes, mentre que *Be My Eyes* connecta usuaris amb voluntaris o assistents professionals per proporcionar ajuda visual immediata.
 
-Aquestes eines s'han convertit en un exemple paradigmàtic d'hibridació entre el programari i l'art, ja que combinen la creativitat humana amb la capacitat computacional del programari.
+Aquestes tecnologies representen una hibridació entre el programari i les necessitats humanes, augmentant les capacitats de les persones amb discapacitats i oferint-los un nou grau d'independència.
+
+![Eina Seeing AI](https://via.placeholder.com/600x400.png?text=Seeing+AI+en+ús)
 
 ### Principis d'hibridació
 
-- **Modularitat:** La creació artística amb IA utilitza mòduls específics, com els models de llenguatge (GPT) o de visió artificial (GANs), que poden combinar-se i adaptar-se a diferents contextos creatius.
-- **Automatització:** Les eines redueixen les tasques repetitives i permeten als creadors concentrar-se en la conceptualització. Per exemple, l'IA pot generar múltiples esbossos d'una obra en segons.
-- **Variabilitat:** Els resultats generats són altament personalitzables. L'usuari pot modificar les entrades text o ajustar paràmetres per obtenir variacions úniques.
+- **Modularitat:** Les aplicacions es basen en mòduls que poden processar text, identificar imatges, reconèixer veus i analitzar dades.
+- **Automatització:** Les eines funcionen de manera automàtica, proporcionant informació a l'usuari sense requerir intervenció contínua.
+- **Variabilitat:** Els resultats es poden adaptar a les necessitats individuals, com personalitzar els idiomes, la velocitat de lectura o els tipus d'informació proporcionada.
 
 ### Impacte cultural
 
-Aquestes eines no només democratitzen l'accés a la creació artística, sinó que també plantegen preguntes sobre l'autoria i el paper de la tecnologia en l'art. L'ús col·laboratiu d'aquestes plataformes, sota llicències com Creative Commons, fomenta una cultura de participació i crowdsourcing.
+Aquestes tecnologies augmenten la inclusió social i milloren l'autonomia de les persones amb discapacitats. També fomenten una societat més conscient i inclusiva, en què l'accessibilitat es converteix en una prioritat tecnològica i social. A més, obren la porta a innovacions futures que podrien transformar encara més la manera com persones amb discapacitats interactuen amb el món.
 
 ### Recursos
 
-- [MidJourney](https://www.midjourney.com)
-- [ChatGPT](https://openai.com/chatgpt)
+- [Be My Eyes](https://www.bemyeyes.com)
+- [Seeing AI](https://www.microsoft.com/en-us/ai/seeing-ai)
 
 ---
 
@@ -44,17 +46,21 @@ Aquestes eines no només democratitzen l'accés a la creació artística, sinó 
 
 ### Descripció
 
-La realitat estesa (XR), que inclou la realitat augmentada (AR) i virtual (VR), s'està utilitzant en el disseny d'espais urbans. Un exemple notable és el projecte *The Line* a l'Aràbia Saudita, que combina tecnologia immersiva amb urbanisme sostenible. Els ciutadans i planificadors poden experimentar el projecte a través de simulacions en VR, permetent una visualització detallada abans de la construcció.
+La realitat estesa (XR), que inclou la realitat augmentada (AR) i virtual (VR), s'està utilitzant en el disseny d'espais urbans per crear ciutats més eficients i sostenibles. Un exemple notable és el projecte *The Line* a l'Aràbia Saudita, que combina tecnologia immersiva amb urbanisme futurista i sostenible. Aquest projecte proposa una ciutat lineal sense cotxes ni emissions de carboni, i els ciutadans i planificadors poden experimentar el disseny a través de simulacions en VR i AR, permetent una visualització detallada abans de la construcció.
+
+També hi ha aplicacions XR que permeten als ciutadans participar en el disseny dels espais públics, utilitzant AR per visualitzar canvis en temps real als entorns urbans.
+
+![Simulació de The Line en VR](https://via.placeholder.com/600x400.png?text=Simulaci%C3%B3+de+The+Line+en+VR)
 
 ### Principis d'hibridació
 
-- **Modularitat:** Aquestes aplicacions combinen múltiples components, com mapes 3D, dades en temps real i visualitzacions immersives.
-- **Automatització:** Els sistemes XR poden integrar dades urbanístiques en temps real per actualitzar els models de forma automàtica.
-- **Variabilitat:** Els usuaris poden explorar diverses configuracions urbanes i adaptar-les segons les seves necessitats o preferències.
+- **Modularitat:** Aquestes aplicacions combinen múltiples components, com mapes 3D, dades en temps real, i visualitzacions immersives per crear experiències completes i interactives.
+- **Automatització:** Els sistemes XR poden integrar dades urbanístiques en temps real per actualitzar els models de forma automàtica i precisa.
+- **Variabilitat:** Els usuaris poden explorar diverses configuracions urbanes i adaptar-les segons les seves necessitats o preferències, amb opcions personalitzades per a diferents grups demogràfics.
 
 ### Impacte cultural
 
-Aquest enfocament transforma com es dissenyen i planifiquen les ciutats, oferint una participació ciutadana més activa. A més, fomenta una comprensió més profunda dels impactes ambientals i socials de l'urbanisme.
+Aquest enfocament transforma com es dissenyen i planifiquen les ciutats, oferint una participació ciutadana més activa. Les eines XR permeten que les persones visualitzin com seran els espais futurs i participin en decisions urbanístiques. A més, fomenten una comprensió més profunda dels impactes ambientals i socials, contribuint a un urbanisme més responsable i sostenible.
 
 ### Recursos
 
@@ -65,6 +71,8 @@ Aquest enfocament transforma com es dissenyen i planifiquen les ciutats, oferint
 
 ## Conclusió
 
-Aquests dos exemples il·lustren clarament com l'hibridació descrita per Manovich no només continua vigent, sinó que s'expandeix cap a nous àmbits. Tant la IA generativa com la realitat estesa representen formes de col·laboració entre humans i màquines que redefineixen els límits de la creativitat i la innovació cultural.
+Aquests dos exemples il·lustren clarament com l'hibridació descrita per Manovich no només continua vigent, sinó que s'expandeix cap a nous àmbits. Tant la IA per a persones cegues o amb discapacitats com la realitat estesa representen formes de col·laboració entre humans i màquines que redefineixen els límits de la inclusió, la creativitat i la innovació cultural.
+
+La tecnologia està esdevenint un pont que connecta necessitats humanes amb solucions innovadores, transformant la societat cap a un futur més accessible i sostenible. Amb exemples com aquests, podem veure com els principis de modularitat, automatització i variabilitat segueixen sent claus per entendre l'evolució tecnològica en la nostra era digital.
 
 ---
