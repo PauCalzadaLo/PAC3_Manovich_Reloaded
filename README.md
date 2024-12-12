@@ -26,6 +26,7 @@ Aquestes tecnologies representen una hibridació entre el programari i les neces
 A més, les tecnologies de IA es beneficien de la retroalimentació dels usuaris per millorar contínuament, creant un ecosistema dinàmic on les necessitats reals de les persones cegues o amb discapacitats impulsen el desenvolupament.
 
 ![Eina Seeing AI](https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/61/2023/12/Microsoft-Seeing-AI-Android-channels.jpg)
+Eina Seeing AI: Pagina web (https://news.microsoft.com/)
 
 ### Principis d'hibridació
 
@@ -57,6 +58,7 @@ Aquests models immersius permeten als urbanistes identificar problemes potencial
 També hi ha aplicacions XR que permeten als ciutadans participar en el disseny dels espais públics, utilitzant AR per visualitzar canvis en temps real als entorns urbans. Això crea un diàleg interactiu entre ciutadans i urbanistes, promovent una planificació més democràtica i informada.
 
 ![The Line Project](https://neom.scene7.com/is/image/neom/line-c58-g-no-gradient?wid=1920&hei=1120)
+The Line Project, Arabia Saudi 2025, Projecció sobre el projecte (https://www.neom.com/en-us/regions/theline)
 
 ### Principis d'hibridació
 
