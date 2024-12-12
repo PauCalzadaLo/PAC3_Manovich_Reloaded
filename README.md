@@ -1,6 +1,6 @@
 # PAC3: Manovich Reloaded
 
-## Autor: Nom Cognom
+## Autor: Pau Calzada López
 
 ---
 
