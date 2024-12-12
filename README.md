@@ -1,6 +1,6 @@
 # PAC3: Manovich Reloaded
 
-## Autor: Nom Cognom
+## Autor: Pau Calzada López
 
 ---
 
@@ -23,7 +23,7 @@ La intel·ligència artificial està millorant significativament la vida de pers
 
 Aquestes tecnologies representen una hibridació entre el programari i les necessitats humanes, augmentant les capacitats de les persones amb discapacitats i oferint-los un nou grau d'independència.
 
-![Eina Seeing AI]([https://via.placeholder.com/600x400.png?text=Seeing+AI+en+ús](https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/61/2023/12/Microsoft-Seeing-AI-Android-channels.jpg](https://github.com/PauCalzadaLo/PAC3_Manovich_Reloaded/blob/main/Microsoft-Seeing-AI-Android-channels.jpg))
+![Eina Seeing AI](https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/61/2023/12/Microsoft-Seeing-AI-Android-channels.jpg)
 
 ### Principis d'hibridació
 
@@ -50,7 +50,7 @@ La realitat estesa (XR), que inclou la realitat augmentada (AR) i virtual (VR), 
 
 També hi ha aplicacions XR que permeten als ciutadans participar en el disseny dels espais públics, utilitzant AR per visualitzar canvis en temps real als entorns urbans.
 
-[![Simulació de The Line en VR](https://via.placeholder.com/600x400.png?text=Simulaci%C3%B3+de+The+Line+en+VR)](https://github.com/user-attachments/assets/260b4b78-72bb-4519-88f0-c9c3de485d21)
+![The Line Project](https://neom.scene7.com/is/image/neom/line-c58-g-no-gradient?wid=1920&hei=1120)
 
 ### Principis d'hibridació
 
