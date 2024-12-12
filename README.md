@@ -35,7 +35,7 @@ Aquestes tecnologies representen una hibridació entre el programari i les neces
 
 Aquestes tecnologies augmenten la inclusió social i milloren l'autonomia de les persones amb discapacitats. També fomenten una societat més conscient i inclusiva, en què l'accessibilitat es converteix en una prioritat tecnològica i social. A més, obren la porta a innovacions futures que podrien transformar encara més la manera com persones amb discapacitats interactuen amb el món.
 
-### Recursos
+### Recursos i enllaços utilitzats.
 
 - [Be My Eyes](https://www.bemyeyes.com)
 - [Seeing AI](https://www.microsoft.com/en-us/ai/seeing-ai)
@@ -62,7 +62,7 @@ També hi ha aplicacions XR que permeten als ciutadans participar en el disseny 
 
 Aquest enfocament transforma com es dissenyen i planifiquen les ciutats, oferint una participació ciutadana més activa. Les eines XR permeten que les persones visualitzin com seran els espais futurs i participin en decisions urbanístiques. A més, fomenten una comprensió més profunda dels impactes ambientals i socials, contribuint a un urbanisme més responsable i sostenible.
 
-### Recursos
+### Recursos i enllaços utilitzats.
 
 - [The Line Project](https://www.neom.com/line)
 - [Realitat augmentada en urbanisme](https://www.xataka.com/realidad-virtual-aumentada/realidad-extendida)
