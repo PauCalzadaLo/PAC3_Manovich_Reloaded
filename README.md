@@ -50,7 +50,7 @@ La realitat estesa (XR), que inclou la realitat augmentada (AR) i virtual (VR), 
 
 També hi ha aplicacions XR que permeten als ciutadans participar en el disseny dels espais públics, utilitzant AR per visualitzar canvis en temps real als entorns urbans.
 
-![Simulació de The Line en VR](https://via.placeholder.com/600x400.png?text=Simulaci%C3%B3+de+The+Line+en+VR)
+[![Simulació de The Line en VR](https://via.placeholder.com/600x400.png?text=Simulaci%C3%B3+de+The+Line+en+VR)](https://github.com/user-attachments/assets/260b4b78-72bb-4519-88f0-c9c3de485d21)
 
 ### Principis d'hibridació
 
